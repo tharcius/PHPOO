@@ -3,6 +3,7 @@
 require_once "Pessoa.php";
 require_once "Produto.php";
 require_once "Tenis.php";
+require_once "TenisInterface.php";
 require_once "TenisAdidas.php";
 require_once "SapaTenis.php";
 
