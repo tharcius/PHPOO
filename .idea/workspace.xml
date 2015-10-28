@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33477336-89da-42e8-b2ea-d40226a0d49b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaces/ComputadorDesktop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaces/ComputadorInterfaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaces/ComputadorNotebook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banco/Conta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banco/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaces/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Produto.php" afterPath="$PROJECT_DIR$/Produto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="curso.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,13 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conta.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Conta.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/banco/Conta.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2615716">
+            <state vertical-scroll-proportion="-6.75">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23027718">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/Produto.php" />
         <option value="$PROJECT_DIR$/banco/index.php" />
         <option value="$PROJECT_DIR$/banco/Conta.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -389,10 +401,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/banco/Conta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2615716">
+        <state vertical-scroll-proportion="-6.75">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23027718">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
