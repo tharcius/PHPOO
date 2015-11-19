@@ -22,3 +22,9 @@ $adidas->getCor();
 
 $tenis2 = new SapaTenis();
 $tenis2->getTamanho();
+
+$produto = new Produto();
+$produto->setNome("Tenis exemplo")
+        ->setDescricao("Essa é a descrição do produto")
+        ->setEstoque(10)
+        ->setValor(1000);

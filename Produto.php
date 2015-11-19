@@ -14,6 +14,7 @@ class Produto{
     public function setEstoque($estoque)
     {
         $this->estoque = $estoque;
+        return $this;
     }
 
     public function getNome()
@@ -24,6 +25,7 @@ class Produto{
     public function setNome($nome)
     {
         $this->nome = $nome;
+        return $this;
     }
 
     public function getDescricao()
@@ -34,11 +36,13 @@ class Produto{
     public function setDescricao($descricao)
     {
         $this->descricao = $descricao;
+        return $this;
     }
 
     public function getValor()
     {
         return $this->valor;
+        return $this;
     }
 
     public function setValor($valor)
